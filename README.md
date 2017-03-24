@@ -2,7 +2,7 @@
 Python code for debris detection using logistic regression on pictures
 
 # What is it?
-This is the first code to try and create a machine learning model (neural network) that is able to recognize floating debris from normal water. The current code scores 97% accurate but this of course all depends on the amount of pictures and the quality of the labels which is so far not enough. 
+This is the first code to try and create a machine learning model (neural network) that is able to recognize floating debris from normal water. The current code scores 97% accurate but this of course all depends on the amount of pictures and the quality of the labels which is so far not good enough. 
 
 ![Screenshot](https://github.com/waternet/debris_detection/blob/master/screenie.png)
 
